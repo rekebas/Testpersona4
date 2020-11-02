@@ -8,7 +8,7 @@ public class Workout {
         System.out.println(StrReverse("dd"));
         System.out.println(StrReverse("dghhhh"));
         System.out.println(StrReverse("dffffffghhhh"));
-
+        System.out.println("deneme");
 
 
 
