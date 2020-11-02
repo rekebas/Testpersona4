@@ -5,6 +5,9 @@ public class Workout {
     public static void main(String[] args) {
 
 
+        System.out.println(StrReverse("dd"));
+        System.out.println(StrReverse("dghhhh"));
+        System.out.println(StrReverse("dffffffghhhh"));
 
 
 
